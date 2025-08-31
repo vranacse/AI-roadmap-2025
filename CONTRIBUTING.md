@@ -2,6 +2,8 @@
 
 Thank you for your interest in contributing to the AI Learning Roadmap! This is a community-driven project aimed at helping people learn AI, Machine Learning, and Deep Learning effectively.
 
+*Last updated: January 2025* 🆕
+
 ## 🎯 How to Contribute
 
 ### **Types of Contributions We Welcome**
