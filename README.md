@@ -2,6 +2,8 @@
 
 A comprehensive roadmap to guide you through learning Artificial Intelligence, Machine Learning, and Deep Learning from beginner to advanced levels.
 
+*Last updated: January 2025* 🆕
+
 ## 📚 Table of Contents
 
 - [🎯 Learning Paths](#-learning-paths)
